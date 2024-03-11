@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewood-coder (or Emma)!
 - 👀 I’m interested in coding, video games, and being the best homebody I can be.
-- 🌱 I’m currently learning software development as a student at CWI.
+- 🌱 I’m currently learning software development as a student at Boise CodeWorks. I graduated from CWI with my associates in software development in 2022.
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
 - 📫 How to reach me: Phone: (208)-908-2162,  Email: emmawood.coding@gmail.com
 
