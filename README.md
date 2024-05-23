@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
 - 📫 How to reach me: Phone: (208)-908-2162,  Email: emmawood.coding@gmail.com
 
-
-<a href="https://app.daily.dev/lepwood"><img src="https://api.daily.dev/devcards/v2/gtGVrwbnFzv6oPs8KwiJ8.png?type=default&r=sdy" width="356" alt="Emma's Dev Card"/></a>
+<a href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
 
 <!---
 ewood-coder/ewood-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
