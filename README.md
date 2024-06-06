@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
 - 📫 How to reach me:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Phone:</b> (208)-908-2162<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com<br /><br />
 
 
 <div align="center"><b>My Languages & Frameworks:</b></div><br />
