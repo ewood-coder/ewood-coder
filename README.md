@@ -7,11 +7,14 @@
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
 - 📫 How to reach me:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Phone:</b> (208)-908-2162<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com<br />
 
 
 <div align="center"><b>My Languages & Frameworks:</b></div><br />
-https://t4.ftcdn.net/jpg/02/49/94/33/360_F_249943326_f7mjadK5mPdmJbBiHSeQ7DmhttSZVkG1.jpg
+
+![360_F_249943326_f7mjadK5mPdmJbBiHSeQ7DmhttSZVkG1](https://github.com/ewood-coder/ewood-coder/assets/73657745/45dc4ed1-169f-4b41-ab7f-9785ac898fef)
+![Vue js_Logo_2 svg](https://github.com/ewood-coder/ewood-coder/assets/73657745/f81e4fe5-a3fd-4d68-bbcc-873933917872)
+
 
 <hr style="size: 30;"/>
 
