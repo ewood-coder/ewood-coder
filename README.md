@@ -9,6 +9,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Phone:</b> (208)-908-2162<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com
 
+
+<div align="center"><b>My Languages & Frameworks:</b></div><br />
+![alt text](https://t4.ftcdn.net/jpg/02/49/94/33/360_F_249943326_f7mjadK5mPdmJbBiHSeQ7DmhttSZVkG1.jpg) "HTML | CSS | JavaScript")
+
 <hr style="size: 30;"/>
 
 <a href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
