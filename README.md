@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm Emma Wood</h1>
 
+<div align="center">Web Developer: <a href="https://ewood-coder.github.io/EmmaPortfolioBootstrap/">Portfolio</a></div>
+
 - 👀 I’m interested in coding (web design specifically) 👩‍💻, video games 🎮, and being the best homebody I can be 🏠.
 - 🌱 Recent graduate from Boise Codeworks. Also a graduate from CWI with an associates in software development (2022).
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
