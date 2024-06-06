@@ -11,7 +11,7 @@
 
 
 <div align="center"><b>My Languages & Frameworks:</b></div><br />
-![alt text](https://t4.ftcdn.net/jpg/02/49/94/33/360_F_249943326_f7mjadK5mPdmJbBiHSeQ7DmhttSZVkG1.jpg) "HTML | CSS | JavaScript")
+https://t4.ftcdn.net/jpg/02/49/94/33/360_F_249943326_f7mjadK5mPdmJbBiHSeQ7DmhttSZVkG1.jpg
 
 <hr style="size: 30;"/>
 
