@@ -23,7 +23,7 @@
 
 <hr style="size: 30;"/>
 
-<a align="center" href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
+<a href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
 
 <!---
 ewood-coder/ewood-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
