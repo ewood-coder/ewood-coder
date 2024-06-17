@@ -13,17 +13,17 @@
 <div align="center"><b>My Languages & Frameworks:</b></div><br />
 
 <div align="center">
-  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/1b88cadc-74c5-4d9e-b486-9c368a1bf84e" width="100" height="100">
-  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/bc831e49-d8f3-4aa8-955c-fe1ae9152bbd" width="100" height="100">
-  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/d19ace63-491e-4a0f-9c70-5a04a9db6f10" width="100" height="100">
-  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/f81e4fe5-a3fd-4d68-bbcc-873933917872" width="100" height="100">
-  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/f31836b2-cfa1-4d50-8306-537f540480d0" width="100" height="100">  
+  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/1b88cadc-74c5-4d9e-b486-9c368a1bf84e" width="80" height="80">
+  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/bc831e49-d8f3-4aa8-955c-fe1ae9152bbd" width="80" height="80">
+  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/d19ace63-491e-4a0f-9c70-5a04a9db6f10" width="80" height="80">
+  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/f81e4fe5-a3fd-4d68-bbcc-873933917872" width="80" height="80">
+  <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/f31836b2-cfa1-4d50-8306-537f540480d0" width="80" height="80">
 </div>
 
 
 <hr style="size: 30;"/>
 
-<a href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
 
 <!---
 ewood-coder/ewood-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
