@@ -3,8 +3,11 @@
 <div align="center"><b>Web Developer:</b> <a href="https://emmawoodcoding.com">emmawoodcoding.com</a></div><br />
 
 - 👀 I’m interested in coding (web design specifically) 👩‍💻, video games 🎮, and being the best homebody I can be 🏠.
+
 - 🌱 Graduated from Boise CodeWorks in 2024. Also a graduate from CWI with an associates in software development (2022).
+
 - 💞️ I’m looking to collaborate on just about anything if I can contribute what I know.
+
 - 📫 How to reach me:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Phone:</b> (208)-908-2162<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com<br /><br />
