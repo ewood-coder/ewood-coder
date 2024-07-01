@@ -26,9 +26,19 @@
 <hr style="size: 30;"/>
 
 <div align="center">
-  <a href="https://app.daily.dev/lepwood"><img src="./devcard.png" width="356" alt="Emma's Dev Card"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ewood-coder&theme=transparent&hide_border=true&title_color=9EE61F&text_color=ffffff&show_icons=true&icon_color=9EE61F&text_bold=false" width=440 />  
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewood-coder&layout=compact&theme=transparent&title_color=9EE61F&text_color=ffffff&text_bold=false&hide_border=true" width=380 />
+</div>
 
-  <a href="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-  shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY"><img src="https://linkedin-github-  readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-  7H86PwBwvJNfIxttEbNWSJivR4igJraMAY" width="356" alt="Emma's LinkedIn Profile"/>
+<hr style="size: 30;"/>
+
+<div align="center">
+  <a href="https://app.daily.dev/lepwood">
+    <img src="./devcard.png" width="356" alt="Emma's Dev Card"/>
+  </a> 
+  <a href="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY">
+    <img src="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY" width="356" alt="Emma's LinkedIn Profile"/>
   </a>
 </div>
 
