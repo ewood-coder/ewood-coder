@@ -23,6 +23,13 @@
   <img src="https://github.com/ewood-coder/ewood-coder/assets/73657745/f31836b2-cfa1-4d50-8306-537f540480d0" width="80" height="80">
 </div>
 
+<div align="center">
+  [[params.social]]
+      icon = "linkedin"
+      icon_pack = "fa"
+      link = "//linkedin.com/in/emma-wood-dev"
+</div>
+
 
 <hr style="size: 30;"/>
 
