@@ -13,6 +13,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Email:</b> emmawood.coding@gmail.com<br /><br />
 
 
+<div align="left">
+  <h3>Connect with me:</h3>
+  <a href="www.linkedin.com/in/emma-wood-dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
+  </a><br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ewood-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ewood-coder" /><br />
+</div><br /><br />
+
+
 <div align="center"><b>My Languages & Frameworks:</b></div><br />
 
 <div align="center">
@@ -37,9 +46,9 @@
   <a href="https://app.daily.dev/lepwood">
     <img src="./devcard.png" width="356" alt="Emma's Dev Card"/>
   </a> 
-  <a href="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY">
+<!--   <a href="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY">
     <img src="https://linkedin-github-readme.onrender.com/api/render/Emma%20Wood/Junior%20Web%20Developer/Searching.../Associates/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5635AQGTxdwT5-Fqww%2Fprofile-framedphoto-shrink_200_200%2F0%2F1719442239209%3Fe%3D1720476000%26v%3Dbeta%26t%3DdeL1q-F9-7H86PwBwvJNfIxttEbNWSJivR4igJraMAY" width="356" alt="Emma's LinkedIn Profile"/>
-  </a>
+  </a> -->
 </div>
 
 <!---
