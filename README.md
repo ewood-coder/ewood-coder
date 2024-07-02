@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Emma Wood</h1>
+<h1 align="center">Heyo 👋, I'm Emma Wood</h1>
 
 <div align="center"><b>Web Developer:</b> <a href="https://emmawoodcoding.com">emmawoodcoding.com</a></div><br />
 
