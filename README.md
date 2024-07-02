@@ -15,7 +15,7 @@
 
 <div align="left">
   <h3>Connect with me:</h3>
-  <a href="www.linkedin.com/in/emma-wood-dev" target="blank">
+  <a href="https://www.linkedin.com/in/emma-wood-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" />
   </a><br /><br />
   <img src="https://komarev.com/ghpvc/?username=ewood-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ewood-coder" /><br />
